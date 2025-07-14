@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Interview QA Bot Flask API
 
 This project provides a Flask-based REST API for an interview question-answering bot. The bot serves questions from a dataset, evaluates user responses using embeddings and a language model, and supports category-based question selection. The API is designed for easy integration with web or mobile frontends.
